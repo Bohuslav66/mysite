@@ -1,0 +1,22 @@
+body{
+    background-color: #a9a9a9;
+}
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.header2{
+    padding: 60px;
+    text-align: center;
+    color: white;
+    align-self: left;
+}
+a img {
+    margin: auto 30px;
+    max-height:700px;
+    height: auto;
+    width: 140px;
+}

@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.header{
+    background-color: darkgray;
+    color: black;
+    padding: 60px;
+    font-size: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+a img{
+    margin: auto 30px;
+    max-height:700px;
+    height: auto;
+    width: 140px;
+}
+.inline-block{
+    display: inline-block;
+}
